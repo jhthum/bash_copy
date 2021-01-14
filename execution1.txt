@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "initiaing execution task 2"
-./execute2
